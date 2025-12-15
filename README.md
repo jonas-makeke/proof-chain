@@ -1,6 +1,6 @@
 # 🎓 ProofChain
 
-> **ProofChain secures academic credentials on the Cardano blockchain.** Schools issue tamper-proof diplomas, students truly own their achievements, and employers verify them instantly. A decentralized solution for academic trust, eliminating fraud and streamlining verification.
+> **ProofChain secures academic credentials on the Cardano blockchain.** Schools issue tamper-proof diplomas,certificates, and licenses, students truly own their achievements, and employers verify them instantly. A decentralized solution for academic trust, eliminating fraud and streamlining verification.
 
 ## 🚀 What it Does
 **ProofChain** is a decentralized platform that allows educational institutions to issue academic credentials (diplomas, transcripts, certificates) as immutable assets on the **Cardano blockchain**.
